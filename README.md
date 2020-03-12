@@ -1,2 +1,2 @@
 # Twitter
-Twitter SDK精简版
+[twitter-kit-ios](https://github.com/twitter-archive/twitter-kit-ios)精简版。
